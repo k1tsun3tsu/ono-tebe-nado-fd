@@ -2,7 +2,7 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 95px 50px 100px;
+  padding: 80px 50px 100px;
 }
 
 .header__logo {
@@ -135,7 +135,7 @@
   color: #ffffff;
   text-transform: uppercase;
   background-color: transparent;
-  padding: 11px 31px;
+  padding: 11px 32px;
   border: 1px solid #ffffff;
   cursor: pointer;
 }
@@ -152,7 +152,7 @@
   display: flex;
   gap: 25px;
   flex-wrap: wrap;
-  margin: 0 24px 33px;
+  margin: 0 24px 30px;
   width: 1052px;
 }
 
@@ -263,7 +263,7 @@
 }
 
 .footer {
-  margin-top: 62px;
+  margin-top: 63px;
   padding: 0 45px 0 50px;
   width: 100%;
   display: grid;
