@@ -261,7 +261,7 @@
 }
 
 .footer {
-  margin-top: 63px;
+  margin: 63px 0 80px;
   padding: 0 45px 0 50px;
   width: 100%;
   display: grid;
